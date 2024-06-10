@@ -9,6 +9,9 @@ This repository includes implementations of the following data structures:
 1. **Linked List**
 2. **Queue**
 3. **Stack**
+4. **Hash**
+5. **Heap**
+6. **Binary Tree**
 
 ## Installation
 
